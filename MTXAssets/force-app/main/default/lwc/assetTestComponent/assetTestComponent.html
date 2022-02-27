@@ -1,0 +1,11 @@
+<template>
+
+    <lightning-input type="tel" label="Mobile Number" placeholder="Enter a 10 digit number" onchange={fetchMobileNumber}
+        message-when-too-short="Please enter a 10-digit number" value={capturedMobileNumber}
+        message-when-too-long="Please enter a 10-digit number"
+        message-when-pattern-mismatch="Please enter a 10-digit number" autocomplete="pass">
+    </lightning-input>
+
+    <!-- pattern="^\d{3}-\d{3}-\d{4}$" -->
+
+</template>
