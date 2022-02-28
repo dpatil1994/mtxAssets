@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>AIPAC2_Pass_IV</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AIPAC2 Pass IV</shortDescription>
+        <value>38792F423F4528482B4D625165546857</value>
+    </labels>
+    <labels>
+        <fullName>AIPAC2_Pass_Key</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AIPAC2 Pass Key</shortDescription>
+        <value>4125442A472D4B6150645267556B5870</value>
+    </labels>
+</CustomLabels>
